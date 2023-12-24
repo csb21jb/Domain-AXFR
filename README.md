@@ -1,14 +1,11 @@
 ```
-MMMMMMMb                                      68b                       dM       MM        M   MMMMMMM  MMMMMMMb
-MM     Mb                                     Y89                       MMb       MM      d    MM       MM     Mb  
-MM     MM                                                              d YM        MM    d     MM       MM     MM  
-MM     MM  6MMMMMb   MM 6MMb  6MMb   6MMMMb    MM  MM 6MMb             P  Mb        MM  d      MM       MM     MM  
-MM     MM 6M     Mb  MM69  MM69  Mb 8M    Mb   MM  MMM9  Mb           d   YM         MMd       MMMMMM   MM     M9  
-MM     MM MM     MM  MM    MM    MM      oMM   MM  MM    MM           P    Mb        dMM       MM       MMMMMMM9   
-MM     MM MM     MM  MM    MM    MM  6MM9 MM   MM  MM    MM          d     YM       d  MM      MM       MM  \M\    
-MM     MM MM     MM  MM    MM    MM MM    MM   MM  MM    MM          MMMMMMMMb     d    MM     MM       MM   \M\   
-MM     M9 YM     M9  MM    MM    MM MM    MM   MM  MM    MM         d       YM    d      MM    MM       MM    \M\  
-MMMMMMM9   YMMMMM9   MM    MM    MM  YMMM9'Yb  MM  MM    MM        dM       dMM  M        MM   MM       MM     \M\
+ ####      ####    ##   ##    ##      ####    ##  ##              ##     ##  ##   ######   #####   
+ ## ##    ##  ##   ### ###   ####      ##     ### ##             ####    ##  ##   ##       ##  ##  
+ ##  ##   ##  ##   #######  ##  ##     ##     ######            ##  ##     ###    ##       ##  ##  
+ ##  ##   ##  ##   ## # ##  ######     ##     ######            ######     ##     ####     #####   
+ ##  ##   ##  ##   ##   ##  ##  ##     ##     ## ###            ##  ##    ####    ##       ####    
+ ## ##    ##  ##   ##   ##  ##  ##     ##     ##  ##            ##  ##   ##  ##   ##       ## ##   
+ ####      ####    ##   ##  ##  ##    ####    ##  ##            ##  ##   ##  ##   ##       ##  ##
 ```
 # Domain-AXFR
 
