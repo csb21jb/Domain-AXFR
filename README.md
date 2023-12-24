@@ -33,10 +33,15 @@ Run the script from the command line, specifying the target domain and IP addres
 ```
 python3 DomainAXFR.py <domain> <IP>
 ```
+![image](https://github.com/csb21jb/Domain-AXFR/assets/94072917/2ea69b13-7093-4119-a19b-ed646c81bae6)
 
 ## Output
 - all_domain_info.txt: Comprehensive list of subdomains and their respective DNS records.
 - domain_names.txt: Simplified list of unique subdomain names.
+![image](https://github.com/csb21jb/Domain-AXFR/assets/94072917/c98cd558-e5f5-4f09-82c9-de3046da8ff2)
+
+### Creates 3 x files to conduct additional greps
+![image](https://github.com/csb21jb/Domain-AXFR/assets/94072917/10678312-c6c7-453b-93a9-23078e27d776)
 
 ## Upcoming Features
 - Integration with additional external DNS enumeration tools.
